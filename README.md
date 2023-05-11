@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://i.gifer.com/Q20B.gif" width="100"/>
+</div>
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **AliceZed8/AliceZed8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
